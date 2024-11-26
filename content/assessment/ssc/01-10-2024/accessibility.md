@@ -1,7 +1,6 @@
 ---
 title: Accessibility Report
 weight: 1
-draft: false
 ---
 
 
@@ -20,7 +19,6 @@ draft: false
 
 **Environment:** Windows 10, NVDA 2023.3, Firefox 127
 
-
 ### Critical accessibility issue.
 
 ##### Home Page 
@@ -37,17 +35,13 @@ The card behind The Blue line link, OCHA learn link and The Blue line link, Prov
 
 ###### Color contrast issue
 
-
 **WCAG test:** 1.4.3
-
 
 Choose your site heading does not meet the contrast ratio guideline of 4.5:1.
 
 ###### Unlabeled Form Fields
 
-
 **WCAG test:** 1.3.5
-
 
 It should be made more explanatory and prominent to ensure users understand its purpose clearly, such as labeling it "Close button."
 
@@ -68,9 +62,7 @@ Search button under Search by username and search by Email, both search buttons 
 
 ###### Color contrast issue
 
-
 **WCAG test:** 1.4.3
-
 
 The login button, "Forgot Password? Link", and 'cookie notice link' do not meet the contrast ratio guideline of 4.5:1.
 
@@ -317,3 +309,5 @@ The box appears as a pop-up window, and all the links are accessible using Tab n
 
  
 The page does not have an appropriate title; it appears to be the same as the link of the page.
+
+[^1]: 

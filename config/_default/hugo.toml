@@ -1,33 +1,6 @@
-baseURL = ''
-defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = false
-enableInlineShortcodes = true
-removePathAccents = true
 title = 'Social Inclusion - Digital Accessibility'
 
-theme = ["higo","fromago","repogo","sligo","frago"]
-
-[Params]
-favicon = true
-
-[outputformats]
-  _merge = 'deep'
-[cascade]
-  _merge = 'deep'
-[module]
-  _merge = 'none'
-
-
-[pagination]
-  disableAliases = false
-  pagerSize = 20
-  path = 'page'
-
-[markup]
-  [markup.tableOfContents]
-    endLevel = 6
-    ordered = false
-    startLevel = 2
+theme = ["higo","fromago","repogo","sligo","resugo","frago"]
 
 [menus]
 [[menus.main]]

@@ -23,10 +23,12 @@ cascade:
     path: /publication/**
   outputs:
     - html
+    - print
     - presentation
 - _target:
     path: /assessment/**
   outputs:
     - html
+    - print
     - presentation
 ---
